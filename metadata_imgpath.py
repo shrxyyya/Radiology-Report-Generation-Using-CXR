@@ -6,7 +6,7 @@
 #     metadata = json.load(f)
 
 # # Define base path to processed images
-# processed_base_path = "processed_data_new/train"
+# processed_base_path = "processed_data/train"
 
 # # Track missing files
 # missing = []
@@ -48,7 +48,7 @@
 #     metadata = json.load(f)
 
 # # Define base path to processed images
-# processed_base_path = "processed_data_new/test"
+# processed_base_path = "processed_data/test"
 
 # # Track missing files
 # missing = []
@@ -89,7 +89,7 @@ with open('metadata/valid_metadata_view_position.json', 'r') as f:
     metadata = json.load(f)
 
 # Define base path to processed images
-processed_base_path = "processed_data_new/valid"
+processed_base_path = "processed_data/valid"
 
 # Track missing files
 missing = []
