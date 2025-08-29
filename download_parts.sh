@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HF_TOKEN="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"
+HF_TOKEN="<HF_TOKEN>"
 
 mkdir -p data
 
