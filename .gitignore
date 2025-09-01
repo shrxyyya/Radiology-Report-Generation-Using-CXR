@@ -3,5 +3,6 @@ processed_data
 metadata
 graphrag_env
 data
+embeddings
 gitattributes
 README.md
