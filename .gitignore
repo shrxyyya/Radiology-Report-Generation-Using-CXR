@@ -1,8 +1,9 @@
-processed_data_new
 processed_data
+embeddings
 metadata
 graphrag_env
 data
 embeddings
 gitattributes
 README.md
+test.py
